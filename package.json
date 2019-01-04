@@ -1,0 +1,22 @@
+{
+  "name": "youtube-ad-skipper",
+  "version": "1.0.0",
+  "description": "YouTube auto Ad skipper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohandeblaze/youtube-ad-skipper.git"
+  },
+  "author": "Mohan R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohandeblaze/youtube-ad-skipper/issues"
+  },
+  "homepage": "https://github.com/mohandeblaze/youtube-ad-skipper#readme",
+  "dependencies": {
+    "@types/chrome": "0.0.75"
+  }
+}
